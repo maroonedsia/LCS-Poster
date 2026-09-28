@@ -24,14 +24,16 @@ The initial LCS interface was implemented as a .NET class library (.dll) distrib
 
 ![[LCS architecture.png]]
 
-#### Challenges
-- Frankenstein problem: LIMS solutions often expose vastly different public API surfaces. Adapting to diverse paradigms risks turning the LCS interface into a "Frankenstein" API where only a subset of endpoints applies to any specific LIMS.
-
-## Current Status of Work
+## Current Status of Work (ADDED TO THE BOTTOM OF IMPLEMENTATION)
 
 - Clarity LIMS for Infinium and Cabrillo (cancelled) workflows
 - iLIMS for Infinium workflows
 - [Aquarium Lab Operating System](https://github.com/aquariumbio/aquarium) for a 3rd-party LIMS connectivity proof of concept.
+
+#### Challenges
+- Frankenstein problem: LIMS solutions often expose vastly different public API surfaces. Adapting to diverse paradigms risks turning the LCS interface into a "Frankenstein" API where only a subset of endpoints applies to any specific LIMS.
+
+
 
 ## Potential Future Work
 
