@@ -6,10 +6,10 @@ One LIMS Interface To Connect Them All
 ##### Subtitle
 Our Efforts towards LIMS Agnosticity and Abstraction
 
-## Introduction - The ~~Problem~~ Why
+## Introduction - The Hardwired Legacy
 IAC legacy app was hard-wired to Illumina LIMS. This made it very difficult to connect IAC to other systems, such as Clarity LIMS. The root cause of the problem was the legacy architecture that had not predicated flexible connections for future integrations.
 
-The legacy application IAC was designed to tightly integrate with illumina LIMS, this presented challenges when integrating with other LIMS such as Clarity.
+The legacy application IAC was designed to tightly integrate with Illumina LIMS, this presented challenges when integrating with other LIMS such as Clarity.
 
 ## Design Goals
 
@@ -42,6 +42,8 @@ The initial implementation of LCS interface was a .NET class library (.dll) that
 - Third-party LIMS 
 - Expand the concept to Instrument APIs, such as Hamilton and Tecan robots.
 - LCS connector is not limited to ILASS. Other teams can integrate to LCS Interface to update connected
+- LIMS MCP
+- Standardize LIMS APIs across industry
 
 ## References
 - IOS SAD
