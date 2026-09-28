@@ -12,7 +12,7 @@ The legacy IAC application was hardwired to Illumina LIMS, making integration wi
 
 Because IAC was tightly coupled to Illumina LIMS, integrating with alternative LIMS solutions presented substantial architectural challenges.
 
-## LCS Design Goals
+## ILASS Integration Design Goals
 
 When developing the Illumina Lab Automation Software Solution (ILASS), we recognized that a lab management platform must connect seamlessly to various external tools and services. By defining the required interactions between ILASS and a LIMS as a set of public API specifications, any LIMS can implement an adapter to satisfy these requirements. We call this abstraction layer ILASS LIMS Communication Services (LCS).
 
