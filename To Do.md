@@ -1,0 +1,2 @@
+- [x] Contact Josh Humpherys => ask about GenOS and iOS
+- [ ] Review the content with Zohrab and Kanan
