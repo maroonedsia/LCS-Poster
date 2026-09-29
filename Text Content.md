@@ -31,7 +31,7 @@ The initial LCS interface was implemented as a .NET class library (.dll) distrib
 - [Aquarium Lab Operating System](https://github.com/aquariumbio/aquarium) for a 3rd-party LIMS connectivity proof of concept.
 
 #### Challenges
-- Frankenstein problem: LIMS solutions often expose vastly different public API surfaces. Adapting to diverse paradigms risks turning the LCS interface into a "Frankenstein" API where only a subset of endpoints applies to any specific LIMS.
+- Frankenstein problem: LIMS solutions often expose vastly different public API surfaces. Trying to adapt LIMSs with diverse paradigms risks turning the LCS interface into a "Frankenstein" APIs where only a subset of specifications applies to certain LIMS.
 
 
 
@@ -46,6 +46,14 @@ The initial LCS interface was implemented as a .NET class library (.dll) distrib
 - LIMS Model Context Protocol (MCP)
 - Standardize LIMS APIs across the industry
 - Host lcs interface or adapters in cloud
+
+## Future Possibilities
+
+- More LIMS adapters
+- More LCS clients
+- GenOS/IOS integration
+- Standardize LIMS APIs across the industry
+- LIMS Model Context Protocol (MCP)
 
 ## References
 - IOS SAD
