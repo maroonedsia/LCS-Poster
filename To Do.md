@@ -1,4 +1,8 @@
 - [x] Contact Josh Humpherys => ask about GenOS and iOS
+- [x] Add Illumina Logo
+- [x] Add Contact us QR code
+- [x] Add References and Thank you
+- [ ] Add connecting Curves, using a tablet
 - [ ] Review the content with Zohrab and Kanan
 - [ ] Submit by October 2nd
 
