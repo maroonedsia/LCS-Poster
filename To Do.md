@@ -3,7 +3,8 @@
 - [x] Add Contact us QR code
 - [x] Add References and Thank you
 - [x] Add connecting Curves, using a tablet
-- [ ] Either remove all thumb up/down, or add to the rest...
+- [x] Either remove all thumb up/down, or add to the rest...
+- [x] Add label to Frankenstein
 - [ ] Review the content with Zohrab and Kanan
 - [ ] Submit by October 2nd
 
