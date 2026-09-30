@@ -2,7 +2,8 @@
 - [x] Add Illumina Logo
 - [x] Add Contact us QR code
 - [x] Add References and Thank you
-- [ ] Add connecting Curves, using a tablet
+- [x] Add connecting Curves, using a tablet
+- [ ] Either remove all thumb up/down, or add to the rest...
 - [ ] Review the content with Zohrab and Kanan
 - [ ] Submit by October 2nd
 
